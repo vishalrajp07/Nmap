@@ -14,10 +14,8 @@ Usage
 
   Clone the Repository:
 
-   sh
-
-    git clone https://github.com/yourusername/nmap-automation.git
-    cd nmap-automation
+    https://github.com/vishalrajp07/Nmap.git
+    cd Nmap.git
 
 Make the Script Executable:
 
